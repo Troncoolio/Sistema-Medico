@@ -1,0 +1,6 @@
+Las credenciales de la base de datos son las siguientes:
+
+•⁠  ⁠Host: ep-noisy-snow-atuke689-pooler.c-9.us-east-1.aws.neon.tech
+•⁠  ⁠Database: neondb
+•⁠  ⁠Username: neondb_owner
+•⁠  ⁠Password: npg_pSAshB4VuYH8
